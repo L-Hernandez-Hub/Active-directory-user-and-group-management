@@ -58,7 +58,7 @@ Active Directory Users and Computers console opened to begin creating the organi
 ![OUs Created](images/3-ou-structure.jpeg)
 
 **Description:**  
-Created Organizational Units for HR, IT, and Sales to organize users and administration by department.
+Created an Organizational Units for HR, IT, and Sales to organize users and administration by department.
 
 ---
 
