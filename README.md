@@ -63,8 +63,7 @@ Created an Organizational Units for HR, IT, and Sales to organize users and admi
 ---
 
 ### 4. Create HR Users
-- Created user accounts within HR OU  
-- Maintained consistent naming conventions  
+- Created user accounts within HR OU
 
 ![HR Users](4-hr-users.jpeg)
 
