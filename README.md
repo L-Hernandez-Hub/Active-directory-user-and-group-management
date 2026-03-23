@@ -42,7 +42,7 @@ Windows Server VM prepared with Active Directory tools for user, group, and OU m
 - Navigated to domain within ADUC  
 - Prepared environment for directory structure creation  
 
-![ADUC Opened](2-aduc-domain.jpeg)
+![ADUC Opened](2-aduc-domain.png)
 
 **Description:**  
 Active Directory Users and Computers console opened to begin creating the organizational structure.
