@@ -57,7 +57,7 @@ Active Directory Users and Computers showing newly created OUs (HR, IT, Sales) o
 ---
 
 ### 4. Create HR Users
-- Created user accounts within HR Organizational Unit.
+Created user accounts within HR Organizational Unit.
 
 ![HR Users](4-hr-users.jpeg)
 
@@ -67,7 +67,7 @@ Active Directory Users and Computers displaying multiple user accounts listed un
 ---
 
 ### 5. Create IT Users
-- Created user accounts within IT OU  
+Created user accounts within IT OU  
 
 ![IT Users](5-it-users.jpeg)
 
@@ -77,7 +77,7 @@ Active Directory Users and Computers showing user accounts created under the IT 
 ---
 
 ### 6. Create Sales Users
-- Created user accounts within Sales Organizational Unit. 
+Created user accounts within Sales Organizational Unit. 
 
 ![Sales Users](6-sales-users.jpeg)
 
@@ -98,7 +98,6 @@ Active Directory Users and Computers showing security groups (HR_Users, IT_Users
 
 ### 8. Add Users to Groups
 Added users to their corresponding department security groups.
-
   - HR → HR_Users  
   - IT → IT_Users  
   - Sales → Sales_Users  
