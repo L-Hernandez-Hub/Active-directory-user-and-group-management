@@ -67,7 +67,7 @@ Active Directory Users and Computers displaying multiple user accounts listed un
 ---
 
 ### 5. Create IT Users
-Created user accounts within IT OU  
+Created user accounts within IT Organizational Unit.  
 
 ![IT Users](5-it-users.jpeg)
 
