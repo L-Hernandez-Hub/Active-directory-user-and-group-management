@@ -27,7 +27,7 @@ Build a basic Active Directory environment by creating Organizational Units (OUs
 ### 1. Start Server and Open AD Tools
 Launched the Windows Server VM, opened Server Manger, and accessed Active Director Users and Computers.  
 
-![Server Setup](1-windows-server.jpeg)
+![Server Setup](Screenshots/1-windows-server.jpeg)
 
 **Description:**  
 Server Manager dashboard displaying installed roles including Active Directory Domain Services (AD DS) and DNS.
@@ -37,7 +37,7 @@ Server Manager dashboard displaying installed roles including Active Directory D
 ### 2. Open Active Directory Users and Computers
 Opened Active Directory Users and Computers and navigated to the domain to prepare for directory structure creation.
 
-![ADUC Opened](2-aduc-domain.jpeg)
+![ADUC Opened](Screenshots/2-aduc-domain.jpeg)
 
 **Description:**  
 Active Directory Users and Computers console showing the domain structure with default folders and organizational containers.
@@ -47,7 +47,7 @@ Active Directory Users and Computers console showing the domain structure with d
 ### 3. Create Organizational Units (OUs)
 Created an Organizational Units for HR, IT, and Sales to organize users and administration by department. 
 
-![OUs Created](3-ou-structure.jpeg)
+![OUs Created](Screenshots/3-ou-structure.jpeg)
 
 **Description:**  
 Active Directory Users and Computers showing newly created OUs (HR, IT, Sales) organized under the Employees container.
@@ -57,7 +57,7 @@ Active Directory Users and Computers showing newly created OUs (HR, IT, Sales) o
 ### 4. Create HR Users
 Created user accounts within HR Organizational Unit.
 
-![HR Users](4-hr-users.jpeg)
+![HR Users](Screenshots/4-hr-users.jpeg)
 
 **Description:**  
 Active Directory Users and Computers displaying multiple user accounts listed under the HR OU.
@@ -67,7 +67,7 @@ Active Directory Users and Computers displaying multiple user accounts listed un
 ### 5. Create IT Users
 Created user accounts within IT Organizational Unit.  
 
-![IT Users](5-it-users.jpeg)
+![IT Users](Screenshots/5-it-users.jpeg)
 
 **Description:**  
 Active Directory Users and Computers showing user accounts created under the IT Organizational Unit for centralized identity management.
@@ -77,7 +77,7 @@ Active Directory Users and Computers showing user accounts created under the IT 
 ### 6. Create Sales Users
 Created user accounts within Sales Organizational Unit. 
 
-![Sales Users](6-sales-users.jpeg)
+![Sales Users](Screenshots/6-sales-users.jpeg)
 
 **Description:**  
 Active Directory Users and Computers displaying user accounts under the Sales Organizational Unit to reflect department-based structure.
@@ -87,7 +87,7 @@ Active Directory Users and Computers displaying user accounts under the Sales Or
 ### 7. Create Security Groups
 Created security groups for each department and configured them with Global scope and Security type.
 
-![Security Groups](7-security-groups.jpeg)
+![Security Groups](Screenshots/7-security-groups.jpeg)
 
 **Description:**  
 Active Directory Users and Computers showing security groups (HR_Users, IT_Users, Sales_Users) under the Groups Organizational Unit.
@@ -100,7 +100,7 @@ Added users to their corresponding department security groups.
   - IT → IT_Users  
   - Sales → Sales_Users  
 
-![Group Membership](8-group-membership.jpeg)
+![Group Membership](Screenshots/8-group-membership.jpeg)
 
 **Description:**  
 Added user accounts to their respective security groups to simulate role-based administration.
@@ -110,7 +110,7 @@ Added user accounts to their respective security groups to simulate role-based a
 ### 9. Verify Final Structure
 Reviewed the Active Directory structure to confirm proper organization of Organizational Units, users, and groups.  
 
-![Final Structure](9-final-structure.png)
+![Final Structure](Screenshots/9-final-structure.png)
 
 **Description:**  
 Final Active Directory structure showing Organizational Units, users, and security groups organized by department.
