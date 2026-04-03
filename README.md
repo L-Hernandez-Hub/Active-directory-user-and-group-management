@@ -24,8 +24,6 @@ Build a basic Active Directory environment by creating Organizational Units (OUs
 
 ## Step-by-Step Configuration
 
----
-
 ### 1. Start Server and Open AD Tools
 Launched the Windows Server VM, opened Server Manger, and accessed Active Director Users and Computers.  
 
